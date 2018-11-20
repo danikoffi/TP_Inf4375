@@ -1,0 +1,21 @@
+ 
+EnvoiEmail_Inf4373
+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
+
+https://api.sendgrid.com/v3/stats?start_date=2018-11-12&end_date=2018-11-16
+
+https://api.sendgrid.com/v3/stats?start_date=2018-11-12&aggregated_by=month
+
+
+SendGridStatMail
+
+[{"date":"2018-11-01",
+	"stats":[{"metrics":
+		{"blocks":0,"bounce_drops":0,"bounces":0,"clicks":0,"deferred":0,"delivered":191,
+			"invalid_emails":0,"opens":4,"processed":0,"requests":191,"spam_report_drops":0,
+			"spam_reports":0,"unique_clicks":0,"unique_opens":3,
+			"unsubscribe_drops":0,"unsubscribes":0}}]}]
+
+docker 
+
+[{"date":"2018-11-01","stats":[{"metrics":{"blocks":0,"bounce_drops":0,"bounces":0,"clicks":0,"deferred":0,"delivered":191,"invalid_emails":0,"opens":4,"processed":0,"requests":191,"spam_report_drops":0,"spam_reports":0,"unique_clicks":0,"unique_opens":3,"unsubscribe_drops":0,"unsubscribes":0}}]}]
